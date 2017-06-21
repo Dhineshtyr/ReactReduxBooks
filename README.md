@@ -1,5 +1,5 @@
 # ReactReduxBooks
-From ReactSimpleStart of StephenGrider. This part is
+This part is
 using React and Redux for books application.
 
 ```````````````
